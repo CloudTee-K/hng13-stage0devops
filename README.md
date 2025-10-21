@@ -4,14 +4,14 @@
 **Kehinde Precious Toluwalope**
 
 ## 💬 Slack Username
-**@CloudTee-K**
+**TeeKay**
 
 ## 📄 Project Description
 This project is part of the HNG13 DevOps Internship.  
 The task involves deploying an NGINX web server that serves a custom HTML page, and managing the project workflow using GitHub.
 
 ##  Server Information
-**Server IP/Domain:** http://<your-public-ip>/
+**Server IP/Domain:** http://3.133.100.149
 
 ## Deployment Details
 - **Web Server:** NGINX  
