@@ -1,8 +1,35 @@
-# HNG13 DevOps Stage 0
+# HNG13 Stage 0 DevOps Task
 
-**Name**: **Kehinde Precious Toluwalope**  
-**Slack Username:** TeeKay  
-**Project Description:**  
-This project is part of the HNG13 DevOps internship Stage 0 challenge. It deploys an NGINX web server that hosts a custom webpage accessible publicly on port 80.
+## 👤 Name
+**Kehinde Precious Toluwalope**
 
-**Server URL:** http:3.133.100.149
+## 💬 Slack Username
+**@CloudTee-K**
+
+## 📄 Project Description
+This project is part of the HNG13 DevOps Internship.  
+The task involves deploying an NGINX web server that serves a custom HTML page, and managing the project workflow using GitHub.
+
+##  Server Information
+**Server IP/Domain:** http://<your-public-ip>/
+
+## Deployment Details
+- **Web Server:** NGINX  
+- **Platform:** AWS EC2  
+- **Deployed:** October 21 2025  
+
+---
+
+###  Custom Webpage
+The web page displays the following content:
+
+> Welcome to DevOps Stage 0 - Kehinde Precious Toluwalope / TeeKay(CloudTee-K) 
+> Successfully deployed on AWS EC2  
+> Deployed: October 2025
+
+---
+
+### Repository Info
+This repository contains:
+- `README.md` — Project information
+- `index.html` — Custom webpage deployed on NGINX
